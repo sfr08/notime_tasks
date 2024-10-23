@@ -1,0 +1,41 @@
+.box1 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+
+    border-radius: 90px;
+    border-color: blue;
+    border-style: groove;
+}
+
+.box2 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+
+    border-radius: 25% 10%;
+    border-color: blue;
+    border-style: groove;
+
+}
+
+.box3 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+
+    border-radius: 35px 10cm 10%;
+    border-color: blue;
+    border-style: groove;
+}
+
+.box4 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+
+    border-radius: 50px 50% 50cm 20cm;
+    border-color: blue;
+    border-style: groove;
+
+}
