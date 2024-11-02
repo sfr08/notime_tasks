@@ -1,0 +1,45 @@
+.purplebox {
+    width: 500px;
+    height: 250px;
+    background-color: rgb(152, 136, 237);
+    border-style: none;
+    align-items: center;
+    z-index: 1;
+    position: relative;
+}
+
+.limebox {
+    width: 125px;
+    height: 150px;
+    background-color: rgb(173, 255, 47);
+    border-style: none;
+    align-items: center;
+    z-index: 2;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.greenbox {
+    width: 125px;
+    height: 150px;
+    background-color: rgb(64, 224, 208);
+    border-style: none;
+    align-items: center;
+    z-index: 3;
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 37px;
+}
+
+.yellowbox {
+    width: 125px;
+    height: 150px;
+    background-color: yellow;
+    border-style: none;
+    align-items: center;
+    z-index: 2;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 285px;
+}
