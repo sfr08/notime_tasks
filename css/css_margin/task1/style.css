@@ -1,0 +1,11 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    background-clip: content-box;
+    padding: 20px;
+    border: 40px solid green;
+    position: relative;
+
+}
