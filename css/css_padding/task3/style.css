@@ -1,0 +1,22 @@
+.box1 {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: blue;
+    width: 100px;
+    height: 30px;
+    padding-left: 15px;
+    padding-top: 8px;
+
+}
+
+.box2 {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: blue;
+    width: 100px;
+    height: 30px;
+    padding-left: 15px;
+    padding-top: 8px;
+    margin-top: 50px;
+
+}
