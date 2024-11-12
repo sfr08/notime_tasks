@@ -1,0 +1,130 @@
+* {
+    padding: 0px;
+}
+
+
+.banner {
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    gap: 50px;
+    align-content: center;
+    justify-content: center;
+    padding-left: 250px;
+    padding-top: 150px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#flex {
+    font-weight: bold;
+    color: orangered;
+    font-size: larger;
+    margin-right: 100px;
+}
+
+.page1 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    /* background-image: url("pexels-asadphoto-457882.jpg"); */
+    background-image: url("https://cdn.pixabay.com/photo/2023/07/08/04/58/sunset-8113697_1280.jpg");
+    padding: 0px;
+}
+
+
+.box1 {
+    width: 175px;
+    height: 30px;
+    background-color: red;
+    align-content: center;
+    justify-content: center;
+    border: none;
+    text-align: center;
+    margin-left: 660px;
+    padding-top: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.page2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.half1 {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.box2 {
+    align-content: center;
+    justify-content: center;
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    background-color: teal;
+}
+
+.box3 {
+    align-content: center;
+    justify-content: center;
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+}
+
+.box4 {
+    align-content: center;
+    justify-content: center;
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 0, 255, 0.4);
+}
+
+.box5 {
+    align-content: center;
+    justify-content: center;
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    background-color: lime;
+}
+
+.half2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.half3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+
+}
